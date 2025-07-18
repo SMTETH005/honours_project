@@ -1,0 +1,1043 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="https://online.ucpress.edu/elementa/article/doi/10.1525/elementa.367/112511/A-synthesis-of-three-decades-of-socio-ecological">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2325-1026"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pfaff</foaf:surname>
+                        <foaf:givenName>Maya C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Logston</foaf:surname>
+                        <foaf:givenName>Renae C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Raemaekers</foaf:surname>
+                        <foaf:givenName>Serge J. P. N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hermes</foaf:surname>
+                        <foaf:givenName>Juliet C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blamey</foaf:surname>
+                        <foaf:givenName>Laura K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cawthra</foaf:surname>
+                        <foaf:givenName>Hayley C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Colenbrander</foaf:surname>
+                        <foaf:givenName>Darryl R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Crawford</foaf:surname>
+                        <foaf:givenName>Robert J. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Day</foaf:surname>
+                        <foaf:givenName>Elizabeth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Du Plessis</foaf:surname>
+                        <foaf:givenName>Nicole</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Elwen</foaf:surname>
+                        <foaf:givenName>Simon H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fawcett</foaf:surname>
+                        <foaf:givenName>Sarah E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jury</foaf:surname>
+                        <foaf:givenName>Mark R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Karenyi</foaf:surname>
+                        <foaf:givenName>Natasha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kerwath</foaf:surname>
+                        <foaf:givenName>Sven E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kock</foaf:surname>
+                        <foaf:givenName>Alison A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Krug</foaf:surname>
+                        <foaf:givenName>Marjolaine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lamberth</foaf:surname>
+                        <foaf:givenName>Stephen J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Omardien</foaf:surname>
+                        <foaf:givenName>Aaniyah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pitcher</foaf:surname>
+                        <foaf:givenName>Grant C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rautenbach</foaf:surname>
+                        <foaf:givenName>Christo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Robinson</foaf:surname>
+                        <foaf:givenName>Tamara B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rouault</foaf:surname>
+                        <foaf:givenName>Mathieu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ryan</foaf:surname>
+                        <foaf:givenName>Peter G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shillington</foaf:surname>
+                        <foaf:givenName>Frank A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sowman</foaf:surname>
+                        <foaf:givenName>Merle</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sparks</foaf:surname>
+                        <foaf:givenName>Conrad C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Turpie</foaf:surname>
+                        <foaf:givenName>Jane K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van Niekerk</foaf:surname>
+                        <foaf:givenName>Lara</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Waldron</foaf:surname>
+                        <foaf:givenName>Howard N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yeld</foaf:surname>
+                        <foaf:givenName>Eleanor M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kirkman</foaf:surname>
+                        <foaf:givenName>Stephen P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deming</foaf:surname>
+                        <foaf:givenName>Jody W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_451"/>
+        <dc:title>A synthesis of three decades of socio-ecological change in False Bay, South Africa: setting the scene for multidisciplinary research and management</dc:title>
+        <dcterms:abstract>Over the past three decades, marine resource management has shifted conceptually from top-down sectoral approaches towards the more systems-oriented multi-stakeholder frameworks of integrated coastal management and ecosystem-based conservation. However, the successful implementation of such frameworks is commonly hindered by a lack of cross-disciplinary knowledge transfer, especially between natural and social sciences. This review represents a holistic synthesis of three decades of change in the oceanography, biology and human dimension of False Bay, South Africa. The productivity of marine life in this bay and its close vicinity to the steadily growing metropolis of Cape Town have led to its socio-economic significance throughout history. Considerable research has highlighted shifts driven by climate change, human population growth, serial overfishing, and coastal development. Upwelling-inducing winds have increased in the region, leading to cooling and likely to nutrient enrichment of the bay. Subsequently the distributions of key components of the marine ecosystem have shifted eastward, including kelp, rock lobsters, seabirds, pelagic fish, and several alien invasive species. Increasing sea level and exposure to storm surges contribute to coastal erosion of the sandy shorelines in the bay, causing losses in coastal infrastructure and posing risk to coastal developments. Since the 1980s, the human population of Cape Town has doubled, and with it pollution has amplified. Overfishing has led to drastic declines in the catches of numerous commercially and recreationally targeted fish, and illegal fishing is widespread. The tourism value of the bay contributes substantially to the country’s economy, and whale watching, shark-cage diving and water sports have become important sources of revenue. Compliance with fisheries and environmental regulations would benefit from a systems-oriented approach whereby coastal systems are managed holistically, embracing both social and ecological goals. In this context, we synthesize knowledge and provide recommendations for multidisciplinary research and monitoring to achieve a better balance between developmental and environmental agendas.</dcterms:abstract>
+        <dc:date>2019-01-01</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>A synthesis of three decades of socio-ecological change in False Bay, South Africa</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://online.ucpress.edu/elementa/article/doi/10.1525/elementa.367/112511/A-synthesis-of-three-decades-of-socio-ecological</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-28 06:02:53</dcterms:dateSubmitted>
+        <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+        <bib:pages>32</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2325-1026">
+        <prism:volume>7</prism:volume>
+        <dc:title>Elementa: Science of the Anthropocene</dc:title>
+        <dc:identifier>DOI 10.1525/elementa.367</dc:identifier>
+        <dc:identifier>ISSN 2325-1026</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_451">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="C:\Users\ethan\OneDrive\UCT\Honours 2025\Honours Project\Main reference\Pfaff et al. - 2019 - A synthesis of three decades of socio-ecological change in False Bay, South Africa setting the scen.pdf"/>
+        <dc:title>PDF</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_471">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="C:\Users\ethan\OneDrive\UCT\Honours 2025\Honours Project\Other references\thesis_sci_2022_de vos marc.pdf"/>
+        <dc:title>thesis_sci_2022_de vos marc</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.publish.csiro.au/ES/ES22002">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2206-5865"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Vos</foaf:surname>
+                        <foaf:givenName>Marc</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vichi</foaf:surname>
+                        <foaf:givenName>Marcello</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rautenbach</foaf:surname>
+                        <foaf:givenName>Christo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Holbrook</foaf:surname>
+                        <foaf:givenName>Neil</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_469"/>
+        <dc:title>A wave-driven surface circulation feature in Table Bay</dc:title>
+        <dcterms:abstract>Table Bay, located in the Cape Peninsula region of South Africa, supports a variety of human and ecological interests. Notably it hosts a major port, with significant shipping and smaller maritime activity in and near the bay. Despite this, knowledge of its circulation dynamics remains cursory. In this study, surface gravity waves, particularly those with longer periods and higher wave heights such as swells, are shown to be important in driving near surface currents and establishing circulation patterns within Table Bay. A surface circulation feature, linked to large wave conditions and established by strong wave-driven flows near Robben Island, is identified and described by means of two coastal ocean model simulations. One simulation is dynamically coupled to a wave model and includes current forcing due to waves, whereas the other neglects waves. The influence of these wave-driven currents is relevant at the event scale, but also affects the monthly means of the simulation periods. Finally, the importance of including accurate surface gravity wave forcing in simulations of coastal currents, for applications of coastal models, is elucidated. This is achieved by analysing differences in the drift of a series of drogues deployed in the coupled and uncoupled simulations. Trajectories, drift speeds and drogue fates differed materially between the two configurations, underscoring the implications of wave-driven currents for common use cases.</dcterms:abstract>
+        <dc:date>2023-3-9</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.publish.csiro.au/ES/ES22002</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-06-09 11:12:44</dcterms:dateSubmitted>
+        <bib:pages>60-76</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2206-5865">
+        <prism:volume>73</prism:volume>
+        <dc:title>Journal of Southern Hemisphere Earth Systems Science</dc:title>
+        <dc:identifier>DOI 10.1071/ES22002</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>J. South. Hemisph. Earth Syst. Sci.</dcterms:alternative>
+        <dc:identifier>ISSN 2206-5865</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_469">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="C:\Users\ethan\OneDrive\UCT\Honours 2025\Honours Project\Other references\De Vos et al. - 2023 - A wave-driven surface circulation feature in Table Bay.pdf"/>
+        <dc:title>PDF</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.mdpi.com/2077-1312/9/4/359">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2077-1312"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Vos</foaf:surname>
+                        <foaf:givenName>Marc</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vichi</foaf:surname>
+                        <foaf:givenName>Marcello</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rautenbach</foaf:surname>
+                        <foaf:givenName>Christo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_470"/>
+        <dc:title>Simulating the Coastal Ocean Circulation Near the Cape Peninsula Using a Coupled Numerical Model</dc:title>
+        <dcterms:abstract>A coupled numerical hydrodynamic model is presented for the Cape Peninsula region of South Africa. The model is intended to support a range of interdisciplinary coastal management and research applications, given the multifaceted socio-economic and ecological value of the study area. Calibration and validation are presented, with the model reproducing the mean circulation well. Maximum differences between modelled and measured mean surface current speeds and directions of 3.9 × 10−2 m s−1 and 20.7◦, respectively, were produced near Cape Town, where current velocities are moderate. At other measurement sites, the model closely reproduces mean surface and near-bed current speeds and directions and outperforms a global model. In simulating sub-daily velocity variability, the model’s skill is moderate, and similar to that of a global model, where comparison is possible. It offers the distinct advantage of producing information where the global model cannot, however. Validation for temperature and salinity is provided, indicating promising performance. The model produces a range of expected dynamical features for the domain including upwelling and vertical current shear. Nuances in circulation patterns are revealed; speciﬁcally, the development of rotational ﬂow patterns within False Bay is qualiﬁed and an eddy in Table Bay is identiﬁed.</dcterms:abstract>
+        <dc:date>2021-03-26</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2077-1312/9/4/359</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-06-09 11:12:47</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        <bib:pages>359</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2077-1312">
+        <prism:volume>9</prism:volume>
+        <dc:title>Journal of Marine Science and Engineering</dc:title>
+        <dc:identifier>DOI 10.3390/jmse9040359</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>JMSE</dcterms:alternative>
+        <dc:identifier>ISSN 2077-1312</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_470">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="C:\Users\ethan\OneDrive\UCT\Honours 2025\Honours Project\Other references\De Vos et al. - 2021 - Simulating the Coastal Ocean Circulation Near the Cape Peninsula Using a Coupled Numerical Model.pdf"/>
+        <dc:title>PDF</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="https://pyadps.readthedocs.io/en/latest/index.html#">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Amol Prakash</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <prism:edition>0.2.0</prism:edition>
+        <dc:title>pyadps</dc:title>
+        <dc:date>17/06/2025</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pyadps.readthedocs.io/en/latest/index.html#</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>MIT License</dc:rights>
+        <z:programmingLanguage>Python 3.12</z:programmingLanguage>
+    </bib:Data>
+    <bib:Data rdf:about="https://github.com/IOS-OSD-DPG/pycurrents_ADCP_processing?tab=readme-ov-file">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Canada</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IOS OSD Data Product Team</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Hana Hourston</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Di Wan</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Lu Guan</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Maxim Krassovski</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <prism:edition>1.0.1</prism:edition>
+        <dc:title>pycurrents_ADCP_processing</dc:title>
+        <dc:date>11/5/2023</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://github.com/IOS-OSD-DPG/pycurrents_ADCP_processing?tab=readme-ov-file</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:programmingLanguage>Python</z:programmingLanguage>
+    </bib:Data>
+    <bib:Data rdf:about="https://github.com/modscripps/mADCP/tree/master">
+        <z:itemType>computerProgram</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dcterms:alternative>Multiscale Ocean Dynamics</dcterms:alternative>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Jolla</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Scripps Institution of Oceanography</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Gunnar Voet</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dc:title>mADCP</dc:title>
+        <dc:date>14/10/2015</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://github.com/modscripps/mADCP/tree/master</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:programmingLanguage>MATLAB</z:programmingLanguage>
+    </bib:Data>
+    <bib:Data rdf:about="https://github.com/bartverm/adcptools?tab=readme-ov-file#readme">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Wageningen</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Bart Vermeulen</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <prism:edition>1.0</prism:edition>
+        <dc:title>adcptools</dc:title>
+        <dc:date>17/12/2021</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://github.com/bartverm/adcptools?tab=readme-ov-file#readme</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>GPL-3.0 license</dc:rights>
+        <z:programmingLanguage>MATLAB</z:programmingLanguage>
+    </bib:Data>
+    <bib:Article rdf:about="https://joss.theoj.org/papers/10.21105/joss.03594">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2475-9066"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kelley</foaf:surname>
+                        <foaf:givenName>Dan E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Richards</foaf:surname>
+                        <foaf:givenName>Clark</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Layton</foaf:surname>
+                        <foaf:givenName>Chantelle</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_482"/>
+        <dc:title>oce: an R package for Oceanographic Analysis</dc:title>
+        <dc:date>2022-03-03</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>oce</z:shortTitle>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://joss.theoj.org/papers/10.21105/joss.03594</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-08 09:23:27</dcterms:dateSubmitted>
+        <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+        <dc:description>Publisher: The Open Journal</dc:description>
+        <bib:pages>3594</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2475-9066">
+        <prism:volume>7</prism:volume>
+        <dc:title>Journal of Open Source Software</dc:title>
+        <dc:identifier>DOI 10.21105/joss.03594</dc:identifier>
+        <prism:number>71</prism:number>
+        <dcterms:alternative>JOSS</dcterms:alternative>
+        <dc:identifier>ISSN 2475-9066</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_482">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/482/Kelley et al. - 2022 - oce an R package for Oceanographic Analysis.pdf"/>
+        <dc:title>PDF</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="https://github.com/aodn/imos-toolbox">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Australia</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Australian Ocean Data Network</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>AODN</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <prism:edition>2.6.15</prism:edition>
+        <dc:title>IMOS Toolbox</dc:title>
+        <dc:date>4/10/2019</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/aodn/imos-toolbox</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>GNU GPLv3</dc:rights>
+        <z:programmingLanguage>MATLAB</z:programmingLanguage>
+    </bib:Data>
+    <bib:Data rdf:about="https://github.com/mmartini-usgs/ADCPy">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>United States Geological Survey</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Marinna Martini</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <prism:edition>1.2.0</prism:edition>
+        <dc:title>ADCPy</dc:title>
+        <dc:date>22/11/2020</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/mmartini-usgs/ADCPy</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:programmingLanguage>Python 3x</z:programmingLanguage>
+    </bib:Data>
+    <bib:Data rdf:about="https://doi.org/10.5281/zenodo.3924683">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Klise</foaf:surname>
+                        <foaf:givenName>Katherine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pauly</foaf:surname>
+                        <foaf:givenName>Rebecca</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ruehl</foaf:surname>
+                        <foaf:givenName>Kelley M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Olson</foaf:surname>
+                        <foaf:givenName>Sterling</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shippert</foaf:surname>
+                        <foaf:givenName>Timothy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morrell</foaf:surname>
+                        <foaf:givenName>Zachary</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bredin</foaf:surname>
+                        <foaf:givenName>Sarah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lansing</foaf:surname>
+                        <foaf:givenName>Carina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Macduff</foaf:surname>
+                        <foaf:givenName>Matt</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martin</foaf:surname>
+                        <foaf:givenName>Tonya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sivaraman</foaf:surname>
+                        <foaf:givenName>Chitra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gunawan</foaf:surname>
+                        <foaf:givenName>Budi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Driscoll</foaf:surname>
+                        <foaf:givenName>Frederick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dc:title>MHKiT (Marine and Hydrokinetic Toolkit) - Python</dc:title>
+        <dc:date>2020-01</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.5281/zenodo.3924683</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Published: [Computer Software] https://doi.org/10.5281/zenodo.3924683
+DOI: 10.5281/zenodo.3924683</dc:description>
+    </bib:Data>
+    <bib:Data rdf:about="https://github.com/smerckel/adcpreader">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Lucas Merckelbach</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <prism:edition>0.2.1</prism:edition>
+        <dc:title>adcpreader</dc:title>
+        <dc:date>2017</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/smerckel/adcpreader</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>GNU General Public License</dc:rights>
+        <z:programmingLanguage>Python</z:programmingLanguage>
+    </bib:Data>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1002/esp.3367">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1096-9837"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Parsons</foaf:surname>
+                        <foaf:givenName>D. R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jackson</foaf:surname>
+                        <foaf:givenName>P. R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Czuba</foaf:surname>
+                        <foaf:givenName>J. A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Engel</foaf:surname>
+                        <foaf:givenName>F. L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rhoads</foaf:surname>
+                        <foaf:givenName>B. L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oberg</foaf:surname>
+                        <foaf:givenName>K. A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Best</foaf:surname>
+                        <foaf:givenName>J. L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mueller</foaf:surname>
+                        <foaf:givenName>D. S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johnson</foaf:surname>
+                        <foaf:givenName>K. K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Riley</foaf:surname>
+                        <foaf:givenName>J. D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_496"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>acoustic Doppler Current Profiler</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>flow</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>velocity</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Velocity Mapping Toolbox (VMT): a processing and visualization suite for moving-vessel ADCP measurements</dc:title>
+        <dcterms:abstract>The use of acoustic Doppler current profilers (ADCP) for discharge measurements and three-dimensional flow mapping has increased rapidly in recent years and has been primarily driven by advances in acoustic technology and signal processing. Recent research has developed a variety of methods for processing data obtained from a range of ADCP deployments and this paper builds on this progress by describing new software for processing and visualizing ADCP data collected along transects in rivers or other bodies of water. The new utility, the Velocity Mapping Toolbox (VMT), allows rapid processing (vector rotation, projection, averaging and smoothing), visualization (planform and cross-section vector and contouring), and analysis of a range of ADCP-derived datasets. The paper documents the data processing routines in the toolbox and presents a set of diverse examples that demonstrate its capabilities. The toolbox is applicable to the analysis of ADCP data collected in a wide range of aquatic environments and is made available as open-source code along with this publication. Published 2012. This article is a U.S. Government work and is in the public domain in the USA.</dcterms:abstract>
+        <dc:date>2013</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Velocity Mapping Toolbox (VMT)</z:shortTitle>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1002/esp.3367</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-09 10:01:30</dcterms:dateSubmitted>
+        <dc:rights>Published 2012. This article is a U.S. Government work and is in the public domain in the USA.</dc:rights>
+        <dc:description>_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/esp.3367</dc:description>
+        <bib:pages>1244-1260</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1096-9837">
+        <prism:volume>38</prism:volume>
+        <dc:title>Earth Surface Processes and Landforms</dc:title>
+        <dc:identifier>DOI 10.1002/esp.3367</dc:identifier>
+        <prism:number>11</prism:number>
+        <dc:identifier>ISSN 1096-9837</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_496">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/496/esp.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1002/esp.3367</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-09 10:01:41</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1029/2008GC002332">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1525-2027"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ryan</foaf:surname>
+                        <foaf:givenName>William B. F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carbotte</foaf:surname>
+                        <foaf:givenName>Suzanne M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Coplan</foaf:surname>
+                        <foaf:givenName>Justin O.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>O'Hara</foaf:surname>
+                        <foaf:givenName>Suzanne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Melkonian</foaf:surname>
+                        <foaf:givenName>Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arko</foaf:surname>
+                        <foaf:givenName>Robert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weissel</foaf:surname>
+                        <foaf:givenName>Rose Anne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ferrini</foaf:surname>
+                        <foaf:givenName>Vicki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goodwillie</foaf:surname>
+                        <foaf:givenName>Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nitsche</foaf:surname>
+                        <foaf:givenName>Frank</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bonczkowski</foaf:surname>
+                        <foaf:givenName>Juliet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zemsky</foaf:surname>
+                        <foaf:givenName>Richard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_498"/>
+        <link:link rdf:resource="#item_499"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>bathymetry</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>morphology</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>topography</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Global Multi-Resolution Topography synthesis</dc:title>
+        <dcterms:abstract>Seafloor bathymetric data acquired with modern swath echo sounders provide coverage for only a small fraction of the global seabed yet are of high value for studies of the dynamic processes of seafloor volcanism, tectonics, mass wasting, and sediment transport that create and shape the undersea landscape. A new method for compilation of global seafloor bathymetry that preserves the native resolution of swath sonars is presented. The Global Multi-Resolution Topography synthesis consists of a hierarchy of tiles with digital elevations and shaded relief imagery spanning nine magnification doublings from pole to pole (http://www.marine-geo.org/portals/gmrt). The compilation is updated and accessible as surveys are contributed, edited, and added to the tiles. Access to the bathymetry tiles is via Web services and with WMS-enabled client applications such as GeoMapApp®, Virtual Ocean, NASA World Wind®, and Google Earth®.</dcterms:abstract>
+        <dc:date>2009</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1029/2008GC002332</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-14 12:26:14</dcterms:dateSubmitted>
+        <dc:rights>Copyright 2009 by the American Geophysical Union.</dc:rights>
+        <dc:description>_eprint: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2008GC002332</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1525-2027">
+        <prism:volume>10</prism:volume>
+        <dc:title>Geochemistry, Geophysics, Geosystems</dc:title>
+        <dc:identifier>DOI 10.1029/2008GC002332</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 1525-2027</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_498">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/498/Ryan et al. - 2009 - Global Multi-Resolution Topography synthesis.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2008GC002332</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-14 12:26:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_499">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/499/2008GC002332.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1029/2008GC002332</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-14 12:26:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://www.bodc.ac.uk/data/published_data_library/catalogue/10.5285/1c44ce99-0a0d-5f4f-e063-7086abc0ea0f/">
+        <z:itemType>dataset</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>NERC EDS British Oceanographic Data Centre NOC</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>GEBCO Bathymetric Compilation Group 2024</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>elevation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>oceans</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <prism:edition>1</prism:edition>
+        <dc:title>The GEBCO_2024 Grid - a continuous terrain model of the global oceans and land.</dc:title>
+        <dcterms:abstract>The GEBCO_2024 Grid is a global continuous terrain model for ocean and land with a spatial resolution of 15 arc seconds. In regions largely outside of the Arctic Ocean area, the grid uses as a base Version 2.6 of the SRTM15_plus data set (Tozer et al, 2019). This data set is a fusion of land topography with measured and estimated seafloor topography. Included on top of this base grid are gridded bathymetric data sets developed by the four Regional Centers of The Nippon Foundation-GEBCO Seabed 2030 Project. The GEBCO_2024 Grid represents all data within the 2024 compilation. The compilation of the GEBCO_2024 Grid was carried out at the Seabed 2030 Global Center, hosted at the National Oceanography Centre, UK, with the aim of producing a seamless global terrain model. Outside of Polar regions, the Regional Centers provide their data sets as sparse grids i.e. only grid cells that contain data are populated. These data sets were included on to the base using a ‘remove-restore’ blending procedure. This is a two-stage process of computing the difference between the new data and the base grid and then gridding the difference and adding the difference back to the existing base grid. The aim is to achieve a smooth transition between the new and base data sets with the minimum of perturbation of the existing base data set. The data sets supplied in the form of complete grids (primarily areas north of 60N and south of 50S) were included using feather blending techniques from GlobalMapper software. The GEBCO_2024 Grid has been developed through the Nippon Foundation-GEBCO Seabed 2030 Project. This is a collaborative project between the Nippon Foundation of Japan and the General Bathymetric Chart of the Oceans (GEBCO). It aims to bring together all available bathymetric data to produce the definitive map of the world ocean floor by 2030 and make it available to all. Funded by the Nippon Foundation, the four Seabed 2030 Regional Centers include the Southern Ocean - hosted at the Alfred Wegener Institute (AWI), Germany; Pacific Ocean - hosted at the National Institute of Water and Atmospheric Research (NIWA), New Zealand; Atlantic and Indian Oceans - hosted at the Lamont-Doherty Earth Observatory (LDEO), Columbia University, USA; Arctic and North Pacific Oceans - jointly hosted at Stockholm University, Sweden and the Center for Coastal and Ocean Mapping at the University of New Hampshire, USA.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Datacite)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.bodc.ac.uk/data/published_data_library/catalogue/10.5285/1c44ce99-0a0d-5f4f-e063-7086abc0ea0f/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-14 12:43:44</dcterms:dateSubmitted>
+        <dc:identifier>DOI 10.5285/1C44CE99-0A0D-5F4F-E063-7086ABC0EA0F</dc:identifier>
+        <z:medium>Binary,Delimited,Documents,Network Common Data Form</z:medium>
+    </rdf:Description>
+    <z:Collection rdf:about="#collection_17">
+        <dc:title>literature review</dc:title>
+        <dcterms:hasPart rdf:resource="https://pyadps.readthedocs.io/en/latest/index.html#"/>
+        <dcterms:hasPart rdf:resource="https://github.com/IOS-OSD-DPG/pycurrents_ADCP_processing?tab=readme-ov-file"/>
+        <dcterms:hasPart rdf:resource="https://github.com/modscripps/mADCP/tree/master"/>
+        <dcterms:hasPart rdf:resource="https://github.com/bartverm/adcptools?tab=readme-ov-file#readme"/>
+        <dcterms:hasPart rdf:resource="https://joss.theoj.org/papers/10.21105/joss.03594"/>
+        <dcterms:hasPart rdf:resource="https://github.com/aodn/imos-toolbox"/>
+        <dcterms:hasPart rdf:resource="https://github.com/mmartini-usgs/ADCPy"/>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.5281/zenodo.3924683"/>
+        <dcterms:hasPart rdf:resource="https://github.com/smerckel/adcpreader"/>
+        <dcterms:hasPart rdf:resource="https://onlinelibrary.wiley.com/doi/abs/10.1002/esp.3367"/>
+        <dcterms:hasPart rdf:resource="https://onlinelibrary.wiley.com/doi/abs/10.1029/2008GC002332"/>
+        <dcterms:hasPart rdf:resource="https://www.bodc.ac.uk/data/published_data_library/catalogue/10.5285/1c44ce99-0a0d-5f4f-e063-7086abc0ea0f/"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_16">
+        <dc:title>Other references</dc:title>
+        <dcterms:hasPart rdf:resource="#item_471"/>
+        <dcterms:hasPart rdf:resource="https://www.publish.csiro.au/ES/ES22002"/>
+        <dcterms:hasPart rdf:resource="https://www.mdpi.com/2077-1312/9/4/359"/>
+    </z:Collection>
+</rdf:RDF>

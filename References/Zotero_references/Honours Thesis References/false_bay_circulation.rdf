@@ -470,6 +470,7 @@ _eprint: https://doi.org/10.2989/025776187784522423</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_894"/>
         <link:link rdf:resource="#item_521"/>
         <dc:title>Sedimentology of False Bay (Western Cape, South Africa): geological background information for the integrated environmental management of a physically confined coastal compartment</dc:title>
         <dcterms:abstract>False Bay is a large, physically confined embayment located along the southwest coast of South Africa. It is a classic example of a coastal compartment or littoral cell that acts as a receptor and sink of both terrestrial (siliciclastic) and marine (bioclastic) material. It is almost square in shape, measuring ∼35 km N-S and ∼39 km W-E and covering ∼1130 km2. Only a few small rivers discharge into the bay, as a consequence of which only small amounts of sediment are episodically supplied to the bay. The bathymetry reveals two well-defined terraces, one between 30 and 45 m, the other between 50 and 55 m water depth, which are indicative of extended Pleistocene sea-level stillstands. Sediment is dispersed by long-period ocean swells approaching from the southwestern quadrant, as well as nearshore swell- and wind-driven currents. The presence of a prominent rock pinnacle at the entrance to the bay (Rocky Bank) causes wave orthogonals to converge on its leeward side, and which results in substantial wave amplification along the eastern shore of the bay. Coarse-grained sediments (gravel, very coarse sand, coarse sand and medium sand) line the rocky shores in the west and east, and are dispersed around and away from submarine rock outcrops, whereas fine-grained sediments (fine sand, very fine sand and mud) are largely confined to an arcuate belt extending along the centre of the bay from shallow water in the northwest to the deepest parts in the south. This is documented by the distribution of individual size fractions and the mean grain size, and applies to both the siliciclastic and the bioclastic sediment components which appear to be in hydraulic equilibrium. There is a distinct N-S gradient from lower to higher bioclastic content with increasing water depth. The textural parameters (mean grain size, sorting and skewness) reveal the existence of two hydraulic populations that are mixed in various proportions in the course of their dispersal in the form of either bed load or suspended load transport. The mud fraction is closely linked to the dispersal pattern of the fine and very fine sand fractions, indicating that it is transported in the form of aggregates and/or faecal pellets, the bulk of which is evidently in hydraulic equilibrium with the finer-grained sands. It can be anticipated that, during lower Pleistocene sea levels, the palaeo-False Bay valley was occupied, or at least regularly visited, by large and small African mammals and early humans.</dcterms:abstract>
@@ -500,6 +501,17 @@ Publisher: Springer Netherlands</dc:description>
         <dcterms:alternative>J Coast Conserv</dcterms:alternative>
         <dc:identifier>ISSN 1874-7841</dc:identifier>
     </bib:Journal>
+    <bib:Memo rdf:about="#item_894">
+        <rdf:value>&lt;div data-citation-items=&quot;%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F14070386%2Fitems%2F6RYDQIHB%22%5D%2C%22itemData%22%3A%7B%22id%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F14070386%2Fitems%2F6RYDQIHB%22%2C%22type%22%3A%22article-journal%22%2C%22abstract%22%3A%22False%20Bay%20is%20a%20large%2C%20physically%20confined%20embayment%20located%20along%20the%20southwest%20coast%20of%20South%20Africa.%20It%20is%20a%20classic%20example%20of%20a%20coastal%20compartment%20or%20littoral%20cell%20that%20acts%20as%20a%20receptor%20and%20sink%20of%20both%20terrestrial%20(siliciclastic)%20and%20marine%20(bioclastic)%20material.%20It%20is%20almost%20square%20in%20shape%2C%20measuring%20%E2%88%BC35%20km%20N-S%20and%20%E2%88%BC39%20km%20W-E%20and%20covering%20%E2%88%BC1130%20km2.%20Only%20a%20few%20small%20rivers%20discharge%20into%20the%20bay%2C%20as%20a%20consequence%20of%20which%20only%20small%20amounts%20of%20sediment%20are%20episodically%20supplied%20to%20the%20bay.%20The%20bathymetry%20reveals%20two%20well-defined%20terraces%2C%20one%20between%2030%20and%2045%20m%2C%20the%20other%20between%2050%20and%2055%20m%20water%20depth%2C%20which%20are%20indicative%20of%20extended%20Pleistocene%20sea-level%20stillstands.%20Sediment%20is%20dispersed%20by%20long-period%20ocean%20swells%20approaching%20from%20the%20southwestern%20quadrant%2C%20as%20well%20as%20nearshore%20swell-%20and%20wind-driven%20currents.%20The%20presence%20of%20a%20prominent%20rock%20pinnacle%20at%20the%20entrance%20to%20the%20bay%20(Rocky%20Bank)%20causes%20wave%20orthogonals%20to%20converge%20on%20its%20leeward%20side%2C%20and%20which%20results%20in%20substantial%20wave%20amplification%20along%20the%20eastern%20shore%20of%20the%20bay.%20Coarse-grained%20sediments%20(gravel%2C%20very%20coarse%20sand%2C%20coarse%20sand%20and%20medium%20sand)%20line%20the%20rocky%20shores%20in%20the%20west%20and%20east%2C%20and%20are%20dispersed%20around%20and%20away%20from%20submarine%20rock%20outcrops%2C%20whereas%20fine-grained%20sediments%20(fine%20sand%2C%20very%20fine%20sand%20and%20mud)%20are%20largely%20confined%20to%20an%20arcuate%20belt%20extending%20along%20the%20centre%20of%20the%20bay%20from%20shallow%20water%20in%20the%20northwest%20to%20the%20deepest%20parts%20in%20the%20south.%20This%20is%20documented%20by%20the%20distribution%20of%20individual%20size%20fractions%20and%20the%20mean%20grain%20size%2C%20and%20applies%20to%20both%20the%20siliciclastic%20and%20the%20bioclastic%20sediment%20components%20which%20appear%20to%20be%20in%20hydraulic%20equilibrium.%20There%20is%20a%20distinct%20N-S%20gradient%20from%20lower%20to%20higher%20bioclastic%20content%20with%20increasing%20water%20depth.%20The%20textural%20parameters%20(mean%20grain%20size%2C%20sorting%20and%20skewness)%20reveal%20the%20existence%20of%20two%20hydraulic%20populations%20that%20are%20mixed%20in%20various%20proportions%20in%20the%20course%20of%20their%20dispersal%20in%20the%20form%20of%20either%20bed%20load%20or%20suspended%20load%20transport.%20The%20mud%20fraction%20is%20closely%20linked%20to%20the%20dispersal%20pattern%20of%20the%20fine%20and%20very%20fine%20sand%20fractions%2C%20indicating%20that%20it%20is%20transported%20in%20the%20form%20of%20aggregates%20and%2For%20faecal%20pellets%2C%20the%20bulk%20of%20which%20is%20evidently%20in%20hydraulic%20equilibrium%20with%20the%20finer-grained%20sands.%20It%20can%20be%20anticipated%20that%2C%20during%20lower%20Pleistocene%20sea%20levels%2C%20the%20palaeo-False%20Bay%20valley%20was%20occupied%2C%20or%20at%20least%20regularly%20visited%2C%20by%20large%20and%20small%20African%20mammals%20and%20early%20humans.%22%2C%22container-title%22%3A%22Journal%20of%20Coastal%20Conservation%22%2C%22DOI%22%3A%2210.1007%2Fs11852-024-01080-z%22%2C%22ISSN%22%3A%221874-7841%22%2C%22issue%22%3A%226%22%2C%22journalAbbreviation%22%3A%22J%20Coast%20Conserv%22%2C%22language%22%3A%22en%22%2C%22license%22%3A%222024%20The%20Author(s)%22%2C%22note%22%3A%22Company%3A%20Springer%5CnDistributor%3A%20Springer%5CnInstitution%3A%20Springer%5CnLabel%3A%20Springer%5Cnnumber%3A%206%5Cnpublisher%3A%20Springer%20Netherlands%22%2C%22page%22%3A%221-23%22%2C%22source%22%3A%22link-springer-com.ezproxy.uct.ac.za%22%2C%22title%22%3A%22Sedimentology%20of%20False%20Bay%20(Western%20Cape%2C%20South%20Africa)%3A%20geological%20background%20information%20for%20the%20integrated%20environmental%20management%20of%20a%20physically%20confined%20coastal%20compartment%22%2C%22title-short%22%3A%22Sedimentology%20of%20False%20Bay%20(Western%20Cape%2C%20South%20Africa)%22%2C%22URL%22%3A%22https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11852-024-01080-z%22%2C%22volume%22%3A%2228%22%2C%22author%22%3A%5B%7B%22family%22%3A%22Flemming%22%2C%22given%22%3A%22Burghard%20W.%22%7D%5D%2C%22accessed%22%3A%7B%22date-parts%22%3A%5B%5B%222025%22%2C7%2C29%5D%5D%7D%2C%22issued%22%3A%7B%22date-parts%22%3A%5B%5B%222024%22%2C12%2C1%5D%5D%7D%7D%7D%5D&quot; data-schema-version=&quot;9&quot;&gt;&lt;h1&gt;Annotations&lt;br&gt;(8/14/2025, 11:19:46 AM)&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&quot;highlight&quot; data-annotation=&quot;%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F14070386%2Fitems%2FG2UTYWS2%22%2C%22annotationKey%22%3A%22JDG76J99%22%2C%22color%22%3A%22%232ea8e5%22%2C%22pageLabel%22%3A%221%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B51.024%2C534.408%2C88.824%2C543.648%5D%2C%5B51.024%2C522.245%2C544.258%2C531.028%5D%2C%5B51.024%2C509.745%2C544.27%2C518.529%5D%2C%5B51.024%2C494.549%2C544.252%2C508.043%5D%2C%5B51.024%2C484.745%2C544.262%2C493.529%5D%2C%5B51.024%2C472.245%2C544.257%2C481.029%5D%2C%5B51.024%2C459.745%2C544.265%2C468.529%5D%2C%5B51.024%2C447.245%2C544.252%2C456.028%5D%2C%5B51.024%2C434.745%2C544.262%2C443.528%5D%2C%5B51.024%2C422.245%2C544.264%2C431.028%5D%2C%5B51.024%2C409.745%2C544.288%2C418.528%5D%2C%5B51.024%2C397.245%2C544.255%2C406.028%5D%2C%5B51.024%2C384.745%2C544.255%2C393.528%5D%2C%5B51.024%2C372.245%2C544.271%2C381.028%5D%2C%5B51.024%2C359.745%2C544.263%2C368.528%5D%2C%5B51.024%2C347.245%2C544.252%2C356.028%5D%2C%5B51.024%2C334.745%2C544.261%2C343.528%5D%2C%5B51.024%2C322.245%2C544.289%2C331.029%5D%2C%5B51.024%2C309.745%2C544.256%2C318.529%5D%2C%5B51.024%2C297.245%2C544.254%2C306.029%5D%2C%5B51.024%2C284.745%2C544.251%2C293.529%5D%2C%5B51.024%2C272.245%2C312.261%2C281.029%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F14070386%2Fitems%2F6RYDQIHB%22%5D%2C%22locator%22%3A%221%22%7D%7D&quot;&gt;“Abstract False Bay is a large, physically confined embayment located along the southwest coast of South Africa. It is a classic example of a coastal compartment or littoral cell that acts as a receptor and sink of both terrestrial (siliciclastic) and marine (bioclastic) material. It is almost square in shape, measuring ∼35 km N-S and ∼39 km W-E and covering ∼1130 km2. Only a few small rivers discharge into the bay, as a consequence of which only small amounts of sediment are episodically supplied to the bay. The bathymetry reveals two well-defined terraces, one between 30 and 45 m, the other between 50 and 55 m water depth, which are indicative of extended Pleistocene sea-level stillstands. Sediment is dispersed by longperiod ocean swells approaching from the southwestern quadrant, as well as nearshore swell- and wind-driven currents. The presence of a prominent rock pinnacle at the entrance to the bay (Rocky Bank) causes wave orthogonals to converge on its leeward side, and which results in substantial wave amplification along the eastern shore of the bay. Coarse-grained sediments (gravel, very coarse sand, coarse sand and medium sand) line the rocky shores in the west and east, and are dispersed around and away from submarine rock outcrops, whereas fine-grained sediments (fine sand, very fine sand and mud) are largely confined to an arcuate belt extending along the centre of the bay from shallow water in the northwest to the deepest parts in the south. This is documented by the distribution of individual size fractions and the mean grain size, and applies to both the siliciclastic and the bioclastic sediment components which appear to be in hydraulic equilibrium. There is a distinct N-S gradient from lower to higher bioclastic content with increasing water depth. The textural parameters (mean grain size, sorting and skewness) reveal the existence of two hydraulic populations that are mixed in various proportions in the course of their dispersal in the form of either bed load or suspended load transport. The mud fraction is closely linked to the dispersal pattern of the fine and very fine sand fractions, indicating that it is transported in the form of aggregates and/or faecal pellets, the bulk of which is evidently in hydraulic equilibrium with the finer-grained sands. It can be anticipated that, during lower Pleistocene sea levels, the palaeo-False Bay valley was occupied, or at least regularly visited, by large and small African mammals and early humans.”&lt;/span&gt; &lt;span class=&quot;citation&quot; data-citation=&quot;%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F14070386%2Fitems%2F6RYDQIHB%22%5D%2C%22locator%22%3A%221%22%7D%5D%2C%22properties%22%3A%7B%7D%7D&quot;&gt;(&lt;span class=&quot;citation-item&quot;&gt;Flemming, 2024, p. 1&lt;/span&gt;)&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;Very cool insight to the geography and paleoclimate of the bay.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;highlight&quot; data-annotation=&quot;%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F14070386%2Fitems%2FG2UTYWS2%22%2C%22annotationKey%22%3A%22SXZJPIUJ%22%2C%22color%22%3A%22%232ea8e5%22%2C%22pageLabel%22%3A%226%22%2C%22position%22%3A%7B%22pageIndex%22%3A5%2C%22rects%22%3A%5B%5B317.48%2C130.703%2C544.254%2C139.486%5D%2C%5B306.142%2C118.203%2C544.255%2C126.986%5D%2C%5B306.142%2C105.703%2C544.256%2C114.486%5D%2C%5B306.142%2C93.203%2C544.265%2C101.986%5D%2C%5B306.142%2C80.703%2C426.34%2C89.486%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F14070386%2Fitems%2F6RYDQIHB%22%5D%2C%22locator%22%3A%226%22%7D%7D&quot;&gt;“The wind regime of False Bay is dominated by the Southeast Trade Winds which can reach gale force strength (28–40 knots; 51.8–74.1 km/h; 14.4–20.5 m/s) for days on end, especially in spring and summer (October–April) (Fig. 4c; after Seifart 2012).”&lt;/span&gt; &lt;span class=&quot;citation&quot; data-citation=&quot;%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F14070386%2Fitems%2F6RYDQIHB%22%5D%2C%22locator%22%3A%226%22%7D%5D%2C%22properties%22%3A%7B%7D%7D&quot;&gt;(&lt;span class=&quot;citation-item&quot;&gt;Flemming, 2024, p. 6&lt;/span&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;highlight&quot; data-annotation=&quot;%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F14070386%2Fitems%2FG2UTYWS2%22%2C%22annotationKey%22%3A%226CUK23AE%22%2C%22color%22%3A%22%232ea8e5%22%2C%22pageLabel%22%3A%227%22%2C%22position%22%3A%7B%22pageIndex%22%3A6%2C%22rects%22%3A%5B%5B51.024%2C404.204%2C289.134%2C412.058%5D%2C%5B51.024%2C394.491%2C289.134%2C401.956%5D%2C%5B51.024%2C384.491%2C289.133%2C391.956%5D%2C%5B306.142%2C404.491%2C544.258%2C411.956%5D%2C%5B306.142%2C394.491%2C544.26%2C401.956%5D%2C%5B306.142%2C384.491%2C350.754%2C391.956%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F14070386%2Fitems%2F6RYDQIHB%22%5D%2C%22locator%22%3A%227%22%7D%7D&quot;&gt;“Fig. 4 a Wave refraction in False Bay for 10 s ocean swells (after Shipley 1964); NB: the red crosses along the eastern shore indicate locations of drownings due to rogue wave impacts. b Rose diagram of wave heights and directions of wave approach (modified after Seifart 2012). c Rose diagram of wind speed and direction (modified after Seifart 2012)”&lt;/span&gt; &lt;span class=&quot;citation&quot; data-citation=&quot;%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F14070386%2Fitems%2F6RYDQIHB%22%5D%2C%22locator%22%3A%227%22%7D%5D%2C%22properties%22%3A%7B%7D%7D&quot;&gt;(&lt;span class=&quot;citation-item&quot;&gt;Flemming, 2024, p. 7&lt;/span&gt;)&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;This is a good figure of the wave environment of False Bay.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;highlight&quot; data-annotation=&quot;%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F14070386%2Fitems%2FG2UTYWS2%22%2C%22annotationKey%22%3A%22RYBNPWUQ%22%2C%22color%22%3A%22%232ea8e5%22%2C%22pageLabel%22%3A%2216%22%2C%22position%22%3A%7B%22pageIndex%22%3A15%2C%22rects%22%3A%5B%5B51.024%2C724.366%2C164.422%2C732.22%5D%2C%5B51.024%2C714.652%2C161.031%2C722.118%5D%2C%5B51.024%2C704.652%2C156.158%2C712.118%5D%2C%5B51.024%2C694.652%2C160.079%2C702.118%5D%2C%5B51.024%2C684.652%2C156.075%2C692.118%5D%2C%5B51.024%2C674.652%2C156.234%2C682.118%5D%2C%5B51.024%2C664.652%2C152.293%2C672.118%5D%2C%5B51.024%2C654.652%2C144.031%2C662.118%5D%2C%5B51.024%2C644.652%2C161.983%2C652.118%5D%2C%5B51.024%2C634.652%2C157.954%2C642.118%5D%2C%5B51.024%2C624.652%2C152.036%2C632.118%5D%2C%5B51.024%2C614.652%2C160.334%2C622.118%5D%2C%5B51.024%2C604.652%2C158.676%2C612.118%5D%2C%5B51.024%2C594.652%2C157.262%2C602.118%5D%2C%5B51.024%2C584.652%2C153.474%2C592.118%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F14070386%2Fitems%2F6RYDQIHB%22%5D%2C%22locator%22%3A%2216%22%7D%7D&quot;&gt;“Fig. 13 Refraction pattern of 10 s waves in False Bay approaching from SW and, superimposed, a selected band of waves crossing Rocky Bank approaching from WSW; note the angle swept by the focused wave orthogonals along the eastern shoreline, which explains the drownings of anglers along the eastern shore. The wave data (cf. Figure 4b) suggests that the angle swept by amplified waves could be much larger and also affect the northeastern shoreline of False Bay”&lt;/span&gt; &lt;span class=&quot;citation&quot; data-citation=&quot;%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F14070386%2Fitems%2F6RYDQIHB%22%5D%2C%22locator%22%3A%2216%22%7D%5D%2C%22properties%22%3A%7B%7D%7D&quot;&gt;(&lt;span class=&quot;citation-item&quot;&gt;Flemming, 2024, p. 16&lt;/span&gt;)&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;Cool figure&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
     <z:Attachment rdf:about="#item_521">
         <z:itemType>attachment</z:itemType>
         <rdf:resource rdf:resource="files/521/Flemming - 2024 - Sedimentology of False Bay (Western Cape, South Africa) geological background information for the i.pdf"/>
@@ -1969,19 +1981,19 @@ _eprint: https://doi.org/10.2989/02577619209504709</dc:description>
 &lt;strong&gt;&lt;span style=&quot;background-color: rgba(95, 178, 54, 0.5)&quot;&gt;Daniels, T., Fearon, G., Vilaplana, A., Hewitson, B., Rautenbach, C.&lt;/span&gt;&lt;/strong&gt; (2022)&lt;br&gt;&lt;em&gt;Wind generated waves in embayments&lt;/em&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;strong&gt;&lt;span style=&quot;background-color: #5fb23680&quot;&gt;Fearon, G., Herbette, S., Veitch, J., Cambon, G., Vichi, M.&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;background-color: #5fb23680&quot;&gt; &lt;/span&gt;(2022)&lt;br&gt;&lt;em&gt;Land–sea breeze and coastal upwelling: vertical mixing&lt;/em&gt;
+&lt;strong&gt;&lt;span style=&quot;background-color: rgba(95, 178, 54, 0.5)&quot;&gt;Fearon, G., Herbette, S., Veitch, J., Cambon, G., Vichi, M.&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;background-color: rgba(95, 178, 54, 0.5)&quot;&gt; &lt;/span&gt;(2022)&lt;br&gt;&lt;em&gt;Land–sea breeze and coastal upwelling: vertical mixing&lt;/em&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;strong&gt;&lt;span style=&quot;background-color: #5fb23680&quot;&gt;de Vos, M.&lt;/span&gt;&lt;/strong&gt; (2022)&lt;br&gt;&lt;em&gt;Modelling waves and near-shore circulation (PhD)&lt;/em&gt;
+&lt;strong&gt;&lt;span style=&quot;background-color: rgba(95, 178, 54, 0.5)&quot;&gt;de Vos, M.&lt;/span&gt;&lt;/strong&gt; (2022)&lt;br&gt;&lt;em&gt;Modelling waves and near-shore circulation (PhD)&lt;/em&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;strong&gt;&lt;span style=&quot;background-color: #5fb23680&quot;&gt;Pfaff, M.C., Hart-Davis, M., Smith, M.E., Veitch, J&lt;/span&gt;.&lt;/strong&gt; (2022)&lt;br&gt;&lt;em&gt;New coastal retention index (CORE)&lt;/em&gt;
+&lt;strong&gt;&lt;span style=&quot;background-color: rgba(95, 178, 54, 0.5)&quot;&gt;Pfaff, M.C., Hart-Davis, M., Smith, M.E., Veitch, J&lt;/span&gt;.&lt;/strong&gt; (2022)&lt;br&gt;&lt;em&gt;New coastal retention index (CORE)&lt;/em&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;strong&gt;&lt;span style=&quot;background-color: #5fb23680&quot;&gt;Fearon, G., Herbette, S., Cambon, G., Veitch, J., Meynecke, J.-O., Vichi, M.&lt;/span&gt;&lt;/strong&gt; (2023)&lt;br&gt;&lt;em&gt;Land-sea breeze and the southern Benguela upwelling system&lt;/em&gt;
+&lt;strong&gt;&lt;span style=&quot;background-color: rgba(95, 178, 54, 0.5)&quot;&gt;Fearon, G., Herbette, S., Cambon, G., Veitch, J., Meynecke, J.-O., Vichi, M.&lt;/span&gt;&lt;/strong&gt; (2023)&lt;br&gt;&lt;em&gt;Land-sea breeze and the southern Benguela upwelling system&lt;/em&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Flemming, B.W.&lt;/strong&gt; (2024)&lt;br&gt;&lt;em&gt;Sedimentology of False Bay for environmental management&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;background-color: #5fb23680&quot;&gt;Flemming, B.W.&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;background-color: #5fb23680&quot;&gt; &lt;/span&gt;(2024)&lt;br&gt;&lt;em&gt;Sedimentology of False Bay for environmental management&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -2320,11 +2332,18 @@ Publisher: Springer-Verlag</dc:description>
         <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
-    <bib:Article rdf:about="#item_841">
-        <z:itemType>journalArticle</z:itemType>
-        <dcterms:isPartOf>
-           <bib:Journal></bib:Journal>
-        </dcterms:isPartOf>
+    <bib:Thesis rdf:about="#item_841">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>South Africa</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>University of Cape Town</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
         <bib:authors>
             <rdf:Seq>
                 <rdf:li>
@@ -2341,9 +2360,12 @@ Publisher: Springer-Verlag</dc:description>
         </dc:subject>
         <dc:title>The influence of a spatially varying wind field on the circulation and thermal structure of False Bay during summer: a numerical modelling study</dc:title>
         <dcterms:abstract>False Bay is South Africa’s largest bay and is situated adjacent to a major urban centre. The study of its physical processes is relevant to the monitoring and management of pollution, as well as to its utility for recreation, tourism, fishing and naval operations. Yet very few modelling studies have been conducted to date, and the exact nature of the bay’s dynamics has yet to be fully elucidated.</dcterms:abstract>
+        <dc:date>2014</dc:date>
         <z:language>en</z:language>
         <z:libraryCatalog>Zotero</z:libraryCatalog>
-    </bib:Article>
+        <z:numPages>65</z:numPages>
+        <z:type>Honours Thesis</z:type>
+    </bib:Thesis>
     <z:Attachment rdf:about="#item_840">
         <z:itemType>attachment</z:itemType>
         <rdf:resource rdf:resource="files/840/Jacobson - The influence of a spatially varying wind field on the circulation and thermal structure of False Ba.pdf"/>
@@ -2819,4 +2841,1465 @@ Publisher: Springer-Verlag</dc:description>
         <dc:title>PDF</dc:title>
         <link:type>application/pdf</link:type>
     </z:Attachment>
+    <bib:Article rdf:about="https://scholar.google.com/scholar_lookup?title=The%20weather%20of%20false%20bay&amp;author=M.%20Jury&amp;publication_year=1991&amp;pages=401-418">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>47</prism:volume>
+                <dc:title>Transactions of the Royal Society of South Africa</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jury</foaf:surname>
+                        <foaf:givenName>Mark R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_898"/>
+        <dc:title>The weather of False Bay</dc:title>
+        <dc:date>1991</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scholar.google.com/scholar_lookup?title=The%20weather%20of%20false%20bay&amp;author=M.%20Jury&amp;publication_year=1991&amp;pages=401-418</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-19 07:20:15</dcterms:dateSubmitted>
+        <bib:pages>401-418</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_898">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/898/scholar_lookup.html"/>
+        <dc:title>Jury: The weather of False Bay - Google Scholar</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scholar.google.com/scholar_lookup?title=The%20weather%20of%20false%20bay&amp;author=M.%20Jury&amp;publication_year=1991&amp;pages=401-418</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-19 07:20:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="#item_899">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Marine Geoscience Unit</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>University of Cape Town</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Glass</foaf:surname>
+                        <foaf:givenName>J.G.K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The bathymetry and geology of False Bay.</dc:title>
+        <dc:date>1976</dc:date>
+        <prism:number>8</prism:number>
+        <z:type>Technical Report</z:type>
+    </bib:Report>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0278434312000970">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>43</prism:volume>
+                <dc:title>Continental Shelf Research</dc:title>
+                <dc:identifier>DOI 10.1016/j.csr.2012.04.009</dc:identifier>
+                <dcterms:alternative>Continental Shelf Research</dcterms:alternative>
+                <dc:identifier>ISSN 02784343</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dufois</foaf:surname>
+                        <foaf:givenName>François</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rouault</foaf:surname>
+                        <foaf:givenName>Mathieu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Sea surface temperature in False Bay (South Africa): Towards a better understanding of its seasonal and inter-annual variability</dc:title>
+        <dc:date>7/2012</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Sea surface temperature in False Bay (South Africa)</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0278434312000970</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-19 08:38:30</dcterms:dateSubmitted>
+        <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
+        <bib:pages>24-35</bib:pages>
+    </bib:Article>
+    <bib:Thesis rdf:about="#item_902">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Stellenbosch: South Africa</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Stellenbosch University</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>MacHutchon</foaf:surname>
+                        <foaf:givenName>K. R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Characterisation of South African Sea Storms</dc:title>
+        <dc:date>2006</dc:date>
+        <z:type>Ph.D. thesis</z:type>
+    </bib:Thesis>
+    <bib:Article rdf:about="#item_903">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>103</prism:volume>
+                <dc:title>Quarterly Journal of the Royal Meteorological Society</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gill</foaf:surname>
+                        <foaf:givenName>A. E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Coastally trapped waves in the atmosphere.</dc:title>
+        <dc:date>1977</dc:date>
+        <bib:pages>431-440</bib:pages>
+    </bib:Article>
+    <bib:Report rdf:about="#item_904">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>South Africa</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>South African Weather Bureau, Dept. Transport</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Le Roux</foaf:surname>
+                        <foaf:givenName>J. J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Climate of South Africa, Part 1: Surface winds.</dc:title>
+        <dc:date>1975</dc:date>
+        <bib:pages>79</bib:pages>
+        <prism:number>38</prism:number>
+        <z:type>Report WB</z:type>
+    </bib:Report>
+    <bib:Thesis rdf:about="#item_905">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>South Africa</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>University of Cape Town</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jury</foaf:surname>
+                        <foaf:givenName>Mark R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Wind shear and differential upwelling along the SW tip of Africa.</dc:title>
+        <dc:date>1984</dc:date>
+        <z:numPages>161</z:numPages>
+        <z:type>Ph.D. thesis</z:type>
+    </bib:Thesis>
+    <bib:Article rdf:about="#item_907">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>26</prism:volume>
+                <dc:title>Journal of Applied Meteorology and Climatology</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jury</foaf:surname>
+                        <foaf:givenName>Mark R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Aircraft observations of meteorological conditions along Africa’s west  coast between 30◦–35◦ south.</dc:title>
+        <dc:date>1987</dc:date>
+        <bib:pages>1540-1552</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://journals.ametsoc.org/view/journals/bams/93/12/bams-d-12-00018.1.xml">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:identifier>DOI 10.1175/BAMS-D-12-00018.1</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brown</foaf:surname>
+                        <foaf:givenName>Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Milton</foaf:surname>
+                        <foaf:givenName>Sean</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cullen</foaf:surname>
+                        <foaf:givenName>Mike</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Golding</foaf:surname>
+                        <foaf:givenName>Brian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mitchell</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shelly</foaf:surname>
+                        <foaf:givenName>Ann</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_909"/>
+        <dc:title>Unified Modeling and Prediction of Weather and Climate: A 25-Year Journey</dc:title>
+        <dcterms:abstract>In recent years there has been a growing appreciation of the potential advantages of using a seamless approach to weather and climate prediction. However, what exactly should this mean in practice? To help address this question, we document some of the experiences already gathered over 25 years of developing and using the Met Office Unified Model (MetUM) for both weather and climate prediction. Overall, taking a unified approach has given enormous benefits, both scientific and in terms of efficiency, but we also detail some of the challenges it has presented and the approaches taken to overcome them.</dcterms:abstract>
+        <dc:date>2012-12-01</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Unified Modeling and Prediction of Weather and Climate</z:shortTitle>
+        <z:libraryCatalog>journals.ametsoc.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.ametsoc.org/view/journals/bams/93/12/bams-d-12-00018.1.xml</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-19 14:26:49</dcterms:dateSubmitted>
+        <dc:description>Section: Bulletin of the American Meteorological Society</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_909">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/909/Brown et al. - 2012 - Unified Modeling and Prediction of Weather and Climate A 25-Year Journey.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.ametsoc.org/downloadpdf/view/journals/bams/93/12/bams-d-12-00018.1.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-19 14:26:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="#item_913">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Bracknell</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Meteorological Office</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cullen</foaf:surname>
+                        <foaf:givenName>M. J. P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The unified forecast/climate model.</dc:title>
+        <dc:date>1993</dc:date>
+        <bib:pages>233-260</bib:pages>
+    </bib:Report>
+    <bib:Article rdf:about="https://journals.co.za/doi/abs/10.10520/AJA00382353_1513">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>60</prism:volume>
+                <dc:title>South African Journal of Science</dc:title>
+                <dc:identifier>DOI 10.10520/AJA00382353_1513</dc:identifier>
+                <prism:number>6</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shipley</foaf:surname>
+                        <foaf:givenName>A. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_915"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>False Bay, freak waves</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Wave height.</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Wave refraction</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Wave velocity</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Some aspects of wave refraction in False Bay</dc:title>
+        <dc:date>1964-06</dc:date>
+        <z:libraryCatalog>journals.co.za (Atypon)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.co.za/doi/abs/10.10520/AJA00382353_1513</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-20 06:26:07</dcterms:dateSubmitted>
+        <dc:description>Publisher: Academy of Science for South Africa (ASSAf)</dc:description>
+        <bib:pages>115-120</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_915">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/915/Shipley - 1964 - Some aspects of wave refraction in False Bay.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.co.za/doi/pdf/10.10520/AJA00382353_1513</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-20 06:26:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://rgdoi.net/10.13140/RG.2.2.10142.18243">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:identifier>DOI 10.13140/RG.2.2.10142.18243</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Veitch</foaf:surname>
+                        <foaf:givenName>Jennifer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Christo Rautenbach</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hermes</foaf:surname>
+                        <foaf:givenName>Juliet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reason</foaf:surname>
+                        <foaf:givenName>Chris</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_921"/>
+        <dc:title>The Cape Point wave record and the role of large-scale modes of climate variability</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Datacite)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://rgdoi.net/10.13140/RG.2.2.10142.18243</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-20 06:40:07</dcterms:dateSubmitted>
+        <dc:description>Publisher: Unpublished</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_921">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/921/Veitch et al. - 2018 - The Cape Point wave record and the role of large-scale modes of climate variability.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://opensky.ucar.edu/islandora/object/%3A3766">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>DOI https://n2t.org/ark:/85065/d7h131fh</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Taljaard</foaf:surname>
+                        <foaf:givenName>Author: J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Crutcher</foaf:surname>
+                        <foaf:givenName>Author: H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jenne</foaf:surname>
+                        <foaf:givenName>Author: R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Loon</foaf:surname>
+                        <foaf:givenName>Author: H. van</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Center</foaf:surname>
+                        <foaf:givenName>Contributor: National Weather Records</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Defense</foaf:surname>
+                        <foaf:givenName>Contributor: U. S. Department of</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_924"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>⛔ No DOI found</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Climate of the Upper Air: Southern Hemisphere: Volume 1: Temperatures, Dew Points, and Heights at Selected Pressure Levels</dc:title>
+        <dc:date>1969</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Climate of the Upper Air</z:shortTitle>
+        <z:libraryCatalog>opensky.ucar.edu</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://opensky.ucar.edu/islandora/object/%3A3766</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-20 06:48:38</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_924">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/924/Taljaard et al. - Climate of the Upper Air Southern Hemisphere Volume 1 Temperatures, Dew Points, and Heights at Se.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://opensky.ucar.edu/system/files/2024-08/technotes_458.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-20 06:49:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0924796318303130">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0924-7963"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Veitch</foaf:surname>
+                        <foaf:givenName>Jennifer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rautenbach</foaf:surname>
+                        <foaf:givenName>Christo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hermes</foaf:surname>
+                        <foaf:givenName>Juliet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reason</foaf:surname>
+                        <foaf:givenName>Chris</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_927"/>
+        <link:link rdf:resource="#item_926"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Cape Point</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>ENSO</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Extreme waves</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>SAM</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Variability</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Wave</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The Cape Point wave record, extreme events and the role of large-scale modes of climate variability</dc:title>
+        <dcterms:abstract>Situated on the southwestern coast of South Africa, Cape Point is directly impacted by ocean surface waves generated by midlatitude cyclones in the westerly wind belt. Severe swell events have a huge impact on coastal communities, infrastructure and maritime operations. We use the long term Council for Industrial and Scientific Research (CSIR) Cape Point Waverider buoy data and WaveWatch III model data together with atmospheric reanalysis data to investigate the role of the El Niño Southern Oscillation (ENSO) and the Southern Annular Mode (SAM) and their associated adjustments of cyclone tracks and intensities on the variability and extreme events of the Cape Point wave record. During austral summer (DJF), when the waves are generally smaller and more southerly, SAM and ENSO tend to result in robust responses: a negative (positive) SAM tends to result in bigger (smaller) more westerly (southerly) waves, while a positive (negative) ENSO results in bigger (smaller) waves from a more westerly (southerly direction). The mean austral (JJA) winter waves do not respond coherently to either SAM or ENSO. A shift in the wave characteristics between periods 1980–1992 and 1994–2006 is clear. The waves become smaller and more southerly during the latter period. This shift is associated with the shift to a more coherently out of phase relationship between SAM and ENSO, dominated by a positive SAM and negative ENSO, that amplifies the wave response, giving rise to smaller waves from a more southerly direction. During summer months there is a significant reduction in not only the mean wave heights, but also the extreme wave heights between the two periods, while during winter months there is only a significant change in the mean wave direction that becomes more southerly during the latter period. During a positive ENSO and negative SAM combination, the summer extreme wave heights tend to be more westerly while the inverse combination does not produce a robust result. Finally, we show that during summer months a positive (negative) ENSO leads to more frequent extreme wave events. On the other hand, a positive (negative) SAM leads to less (more) frequent extreme wave events during winter months.</dcterms:abstract>
+        <dc:date>2019-10-01</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0924796318303130</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-20 07:01:37</dcterms:dateSubmitted>
+        <bib:pages>103185</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0924-7963">
+        <prism:volume>198</prism:volume>
+        <dc:title>Journal of Marine Systems</dc:title>
+        <dc:identifier>DOI 10.1016/j.jmarsys.2019.103185</dc:identifier>
+        <dcterms:alternative>Journal of Marine Systems</dcterms:alternative>
+        <dc:identifier>ISSN 0924-7963</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_927">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/927/Veitch et al. - 2019 - The Cape Point wave record, extreme events and the role of large-scale modes of climate variability.pdf"/>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdf.sciencedirectassets.com/271754/1-s2.0-S0924796319X0007X/1-s2.0-S0924796318303130/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDNqRJa91%2FeG8pA110XvplOm%2FqfCG%2B%2FzGoEceql%2B%2FeWbwIhALiAWCosiItx0%2F2lbFgte3cQHT1JlRcUXsl%2BFgi0ZX0YKrwFCND%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgxIUFYhcof%2BXErlTWUqkAXiGFw2ED%2BFmamsiTd9dXVVpuiSeSCQ0uM0IJzAEyOOi1ZLyUY9F8wvsCJGddbh765gUqYIliQr5N24SLVaIuSBqwOXF6Sc42j0ExVHs8pRFgoehSFkRd46H3f19ExvNUJi9ZN%2FUaUaohLl5HupbASiKMgzX9sMb2pSWXC7z1dFxV1yond%2FHb20zMprdM%2Fa3aXv3bgNYnNbkJxKpB2YAaXHssoGWu%2FcNS9elN2fYLQ3WnCSdkiFEI8NZFRa4dl4MbnnI8Md46Fcx6LAr86sitHD7zrLAxNm%2Bk75AqCWxjwjYXFk788zWlOJvxcxVLl9%2BX1xKiQgKBhpoiQamNxe2IAjIqY7qnEoArIB0LlXi4kdM6yfBgF3MZ7H5AIXNpmtDiVtipoveLmcDNnJqBHQ%2BfjsawHLweiNgFl27lSzN06SJNqJCx1CcGFWXPLvJBqEQCHpcKOdJk7ptUH%2FIfDDOczb%2BIeqA2LCxABc9RjMRPmtWWQEKjvzjmm30AXSAc%2B6g20CHOtsaG3tc6sa3HvjuL4dJsLrtO8E%2Bw0dhly1C%2FbkQskRJd9SFHNdirVon%2BMUL8atRtuM1vPXq7QSGeZR8ZKtpm1LB1kY6uqPt2ytjvCFCdT0kGdLyv5TUdpCRgUzu%2Fg%2FVrzFtPHRUnR3TsCfFFQbTAhqttW5xESUeHs0THRfs9DeOK7yztFRz5vGkhUSMKcAmdlRNh4FzNTIuzsJYBR1L3IZZ%2BYj2LiTI%2Fv7t4DY%2BGipp9%2FDmS3aH9F%2BcOKgrNQyAhVYbibOUQPtn9jqbB%2BKT0910xKmqwDV4Req7QOjALFIawExErNq49%2BauLHQTxPkEg3sOHxQ5Z3Bax2sqdplN8Kekmy8S4zXWub6%2FxMjCzCf3pXFBjqwAU1%2BBW%2FDWESasl3TYl37orlNs8pD2PfIwz5%2BeQmDh0vfkJ35Vc77SqMyHYbuJlGCfdugKFmn9jWwSKlbYR9vxa7G2yvHZFnKh36vcK8dOGtGGMAk3EsxkySqg8jqqfpwXHgoo7kbKipUMV1NsrKWht4G3JwMxI1Ba7pxTTiFMFCFlSbZk6Ataz12AaeZB6W5wEzNEUOY%2Buma%2FO5uhdWHrHFEWGuSggmTSrTgEcce1rgr&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20250820T070144Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAQ3PHCVTYT3CFD7ZT%2F20250820%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=d673f0c992b9ba0d0297d9912bb39cfbf1fc09d22a53f727d40084a00ce1723e&amp;hash=270882fd62a3951d4067e4ec85830e76291be22ccf75ba08cc90d6418c36f409&amp;host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&amp;pii=S0924796318303130&amp;tid=spdf-bf6d5611-4b3b-400d-943d-805b05f9e11b&amp;sid=40f2394f490c274931087dc57913f2c9878egxrqb&amp;type=client&amp;download=true&amp;tsoh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLmV6cHJveHkudWN0LmFjLnph&amp;rh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLmV6cHJveHkudWN0LmFjLnph&amp;ua=00025a57555f555755&amp;rr=972005680dbe1640&amp;cc=za</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-20 07:01:48</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_926">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/926/S0924796318303130.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0924796318303130</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-20 07:01:42</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-33750797138&amp;doi=10.1007%2fBF02227005&amp;partnerID=40&amp;md5=d41bcc94900adbd67492dabe76278b0d">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>31</prism:volume>
+                <dc:title>Deutsche Hydrographische Zeitschrift</dc:title>
+                <dc:identifier>DOI 10.1007/BF02227005</dc:identifier>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shillington</foaf:surname>
+                        <foaf:givenName>F.A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wyndham Harris</foaf:surname>
+                        <foaf:givenName>T.F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_931"/>
+        <dc:title>Surface waves near Cape Town and their associated atmospheric pressure distributions over the South Atlantic</dc:title>
+        <dc:date>1978</dc:date>
+        <z:archive>Scopus</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-33750797138&amp;doi=10.1007%2fBF02227005&amp;partnerID=40&amp;md5=d41bcc94900adbd67492dabe76278b0d</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>67-82</bib:pages>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_931">
+        <rdf:value>&lt;p&gt;Export Date: 20 August 2025; Cited By: 11&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_932">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/932/wave-parameter-definitions.pdf"/>
+        <dc:title>wave-parameter-definitions.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://content.sofarocean.com/hubfs/Spotter%20product%20documentation%20page/wave-parameter-definitions.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-20 07:25:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_937">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Waves in Oceanic and Coastal Waters, by Leo H. Holthuijsen, pp. 404. Cambridge University Press, January 2007. ISBN-10: . ISBN-13:</dc:title>
+                <dc:identifier>DOI 10.2277/0521860288</dc:identifier>
+                <dcterms:alternative>Waves in Oceanic and Coastal Waters, by Leo H. Holthuijsen, pp. 404. Cambridge University Press, January 2007. ISBN-10: . ISBN-13:</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Holthuijsen</foaf:surname>
+                        <foaf:givenName>Leo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Waves in Oceanic and Coastal Waters</dc:title>
+        <dcterms:abstract>Waves in Oceanic and Coastal Waters describes the observation, analysis and prediction of wind-generated waves in the open ocean, in shelf seas, and in coastal regions with islands, channels, tidal flats and inlets, estuaries, fjords and lagoons. The book brings graduate students, researchers and engineers up-to-date with the science and technology involved, assuming only a basic understanding of physics, mathematics and statistics. Most of this richly illustrated book is devoted to the physical aspects of waves. After introducing observation techniques for waves, both at sea and from space, the book defines the parameters that characterize waves. Using basic statistical and physical concepts, the author discusses the prediction of waves in oceanic and coastal waters, first in terms of generalized observations, and then in terms of the more theoretical framework of the spectral energy balance. He gives the results of established theories and also the direction in which research is developing. The book ends with a description of SWAN (Simulating Waves Nearshore), the preferred computer model of the engineering community for predicting waves in coastal waters. Illustrations from the book are featured in color, along with student questions and answers on a web site Includes a detailed description of the wave model SWAN, the preferred computer model of the engineering community for predicting waves in coastal waters Appendices briefly review pre-requisite information on mathematics, statistics and physics</dcterms:abstract>
+        <dc:date>2007-01-01</dc:date>
+    </bib:Article>
+    <bib:Article rdf:about="https://journals.ametsoc.org/view/journals/bams/77/3/1520-0477_1996_077_0437_tnyrp_2_0_co_2.xml">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1520-0477"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kalnay</foaf:surname>
+                        <foaf:givenName>E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kanamitsu</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kistler</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Collins</foaf:surname>
+                        <foaf:givenName>W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deaven</foaf:surname>
+                        <foaf:givenName>D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gandin</foaf:surname>
+                        <foaf:givenName>L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Iredell</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saha</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>White</foaf:surname>
+                        <foaf:givenName>G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Woollen</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhu</foaf:surname>
+                        <foaf:givenName>Y.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chelliah</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ebisuzaki</foaf:surname>
+                        <foaf:givenName>W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Higgins</foaf:surname>
+                        <foaf:givenName>W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Janowiak</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mo</foaf:surname>
+                        <foaf:givenName>K. C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ropelewski</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leetmaa</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reynolds</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jenne</foaf:surname>
+                        <foaf:givenName>Roy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Joseph</foaf:surname>
+                        <foaf:givenName>Dennis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_939"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>⛔ No DOI found</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The NCEP/NCAR 40-Year Reanalysis Project</dc:title>
+        <dcterms:abstract>The NCEP and NCAR are cooperating in a project (denoted “reanalysis”) to produce a 40-year record of global analyses of atmospheric fields in support of the needs of the research and climate monitoring communities. This effort involves the recovery of land surface, ship, rawinsonde, pibal, aircraft, satellite, and other data; quality controlling and assimilating these data with a data assimilation system that is kept unchanged over the reanalysis period 1957–96. This eliminates perceived climate jumps associated with changes in the data assimilation system. The NCEP/NCAR 40-yr reanalysis uses a frozen state-of-the-art global data assimilation system and a database as complete as possible. The data assimilation and the model used are identical to the global system implemented operationally at the NCEP on 11 January 1995, except that the horizontal resolution is T62 (about 210 km). The database has been enhanced with many sources of observations not available in real time for operations, provided by different countries and organizations. The system has been designed with advanced quality control and monitoring components, and can produce 1 mon of reanalysis per day on a Cray YMP/8 supercomputer. Different types of output archives are being created to satisfy different user needs, including a “quick look” CD-ROM (one per year) with six tropospheric and stratospheric fields available twice daily, as well as surface, top-of-the-atmosphere, and isentropic fields. Reanalysis information and selected output is also available on-line via the Internet (http//:nic.fb4.noaa.gov:8000). A special CDROM, containing 13 years of selected observed, daily, monthly, and climatological data from the NCEP/NCAR Reanalysis, is included with this issue. Output variables are classified into four classes, depending on the degree to which they are influenced by the observations and/or the model. For example, “C” variables (such as precipitation and surface fluxes) are completely determined by the model during the data assimilation and should be used with caution. Nevertheless, a comparison of these variables with observations and with several climatologies shows that they generally contain considerable useful information. Eight-day forecasts, produced every 5 days, should be useful for predictability studies and for monitoring the quality of the observing systems. The 40 years of reanalysis (1957–96) should be completed in early 1997. A continuation into the future through an identical Climate Data Assimilation System will allow researchers to reliably compare recent anomalies with those in earlier decades. Since changes in the observing systems will inevitably produce perceived changes in the climate, parallel reanalyses (at least 1 year long) will be generated for the periods immediately after the introduction of new observing systems, such as new types of satellite data. NCEP plans currently call for an updated reanalysis using a state-of-the-art system every five years or so. The successive reanalyses will be greatly facilitated by the generation of the comprehensive database in the present reanalysis.</dcterms:abstract>
+        <dc:date>1996-03-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>journals.ametsoc.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.ametsoc.org/view/journals/bams/77/3/1520-0477_1996_077_0437_tnyrp_2_0_co_2.xml</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-20 08:53:29</dcterms:dateSubmitted>
+        <dc:description>Section: Bulletin of the American Meteorological Society</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1520-0477">
+       <dc:identifier>ISSN 1520-0477</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_939">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/939/Kalnay et al. - 1996 - The NCEPNCAR 40-Year Reanalysis Project.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.ametsoc.org/downloadpdf/view/journals/bams/77/3/1520-0477_1996_077_0437_tnyrp_2_0_co_2.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-20 08:53:48</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_941">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>World scientific</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Massel</foaf:surname>
+                        <foaf:givenName>Stanislaw Ryszard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Ocean surface waves: their physics and prediction</dc:title>
+        <dc:date>2017</dc:date>
+        <prism:edition>3</prism:edition>
+    </bib:Book>
+    <bib:Thesis rdf:about="#item_943">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>South Africa</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>University of Cape Town</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>van Verwolde</foaf:surname>
+                        <foaf:givenName>Emile</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>⛔ No DOI found</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Characteristics of extreme wave events and the correlation between atmospheric conditions along the South African coast</dc:title>
+        <dc:date>2004</dc:date>
+        <z:type>Master's Thesis</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_944">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Stellenbosch: University of Stellenbosch</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Joubert</foaf:surname>
+                        <foaf:givenName>James Rattray</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>An investigation of the wave energy resource on the South African coast, focusing on the spatial distribution of the south west coast</dc:title>
+        <dc:date>2008</dc:date>
+    </bib:Thesis>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1002/joc.1900">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1097-0088"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hemer</foaf:surname>
+                        <foaf:givenName>Mark A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Church</foaf:surname>
+                        <foaf:givenName>John A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hunter</foaf:surname>
+                        <foaf:givenName>John R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_948"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>wave direction</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>climatology</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>coastal longshore transport</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Southern Annular Mode</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Southern Ocean</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>surface ocean waves</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Variability and trends in the directional wave climate of the Southern Hemisphere</dc:title>
+        <dcterms:abstract>The effect of interannual climate variability and change on the historic, directional wave climate of the Southern Hemisphere is presented. Owing to a lack of in situ wave observations, wave climate in the Southern Hemisphere is determined from satellite altimetry and global ocean wave models. Altimeter data span the period 1985 to present, with the exception of a 2-year gap in 1989–1991. Interannual variability and trends in the significant wave height are determined from the satellite altimeter record (1991 to present), and the dominant modes of variability are identified using an empirical orthogonal function (EOF) analysis. Significant wave heights in the Southern Ocean are observed to show a strong positive correlation with the Southern Annular Mode (SAM), particularly during Austral autumn and winter months. Correlation between altimeter derived significant wave heights and the Southern Oscillation Index is observed in the Pacific basin, which is consistent with several previous studies. Variability and trends of the directional wave climate are determined using the ERA-40 Waves Re-analysis for the period 1980–2001. Significant wave height, mean wave period and mean wave direction data are used to describe the climate of the wave energy flux vector. An EOF analysis of the wave energy flux vector is carried out to determine the dominant modes of variability of the directional seasonal wave energy flux climate. The dominant mode of variability during autumn and winter months is strongly correlated to the SAM. There is an anti-clockwise rotation of wave direction with the southward intensification of the Southern Ocean storm belt associated with the SAM. Clockwise rotation of flux vectors is observed in the Western Pacific Ocean during El-Nino events. Directional variability of the wave energy flux in the Western Pacific Ocean has previously been shown to be of importance to sand transport along the south-eastern Australian margin, and the New Zealand region. The directional variability of the wave energy flux of the Southern Ocean associated with the SAM is expected to be of importance to the wave-driven currents responsible for the transport of sand along coastal margins in the Southern Hemisphere, in particular those on the Southern and Western coastal margins of the Australian continent. Copyright © 2009 Royal Meteorological Society</dcterms:abstract>
+        <dc:date>2010</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1002/joc.1900</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-20 10:08:29</dcterms:dateSubmitted>
+        <dc:rights>Copyright © 2009 Royal Meteorological Society</dc:rights>
+        <dc:description>_eprint: https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/joc.1900</dc:description>
+        <bib:pages>475-491</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1097-0088">
+        <prism:volume>30</prism:volume>
+        <dc:title>International Journal of Climatology</dc:title>
+        <dc:identifier>DOI 10.1002/joc.1900</dc:identifier>
+        <prism:number>4</prism:number>
+        <dc:identifier>ISSN 1097-0088</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_948">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/948/joc.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1002/joc.1900</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-20 10:08:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0079661121001452">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0079-6611"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ramos</foaf:surname>
+                        <foaf:givenName>Marília S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Farina</foaf:surname>
+                        <foaf:givenName>Leandro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Faria</foaf:surname>
+                        <foaf:givenName>Sérgio Henrique</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Chen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_950"/>
+        <link:link rdf:resource="#item_949"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Southern Annular Mode</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>El Niño Southern Oscillation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Pacific Decadal Oscillation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>South Atlantic Ocean</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Wave climate</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Relationships between large-scale climate modes and the South Atlantic Ocean wave climate</dc:title>
+        <dcterms:abstract>Modes of variability in ocean wave conditions are coupled to atmospheric circulation changes due to exchange of energy and momentum at the interface. Here, we explored for the South Atlantic Ocean the relations between three main climate oscillations (El Niño–Southern Oscillation [ENSO], Southern Annular Mode [SAM], and Pacific Decadal Oscillation [PDO]), four wave parameters (significant wave height [Hs], mean wave period [Tm], and zonal [Dm,x] and meridional [Dm,y] wave direction components) and wind parameters (wind speed [WS10], and zonal [u10] and meridional [v10] components). For this purpose, we regressed wind and wave parameters against the oscillation indices to create spatial composites of slope values, quantifying the correlation between wave parameters and indices. An EOF (empirical orthogonal function) analysis was also carried out to identify variability modes of wave parameters and to associate them to each climate index. The combining effects of ENSO and SAM were analysed by calculating Hs, Tm and wind speed anomalies for the periods in which the phases of these oscillations co-occur. We found important correlations not only with the dominant mode of variability, but also with secondary and even quaternary modes. For ENSO, negative correlations between the Oceanic Niño Index (ONI) and Hs, Tm, and Dm,x in the northwest part of the South Atlantic Ocean were highlighted, with a decrease (increase) of up to 8 cm of Hs per ONI unit in El Niño (La Niña) events. We established positive correlations also between ONI and these wave parameters in subtropical regions along the western African coast during austral summer, which were intensified by negative SAM. During autumn, however, we observed La Niña positive Hs anomalies for this region, which were also intensified by negative SAM. Finally, we found new, significant correlations between South Atlantic Ocean wave climate and SAM. We determined that the PDO index has negative correlations with Hs and Tm, while directional components present stronger variability.</dcterms:abstract>
+        <dc:date>2021-09-01</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0079661121001452</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-20 10:08:34</dcterms:dateSubmitted>
+        <bib:pages>102660</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0079-6611">
+        <prism:volume>197</prism:volume>
+        <dc:title>Progress in Oceanography</dc:title>
+        <dc:identifier>DOI 10.1016/j.pocean.2021.102660</dc:identifier>
+        <dcterms:alternative>Progress in Oceanography</dcterms:alternative>
+        <dc:identifier>ISSN 0079-6611</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_950">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/950/Ramos et al. - 2021 - Relationships between large-scale climate modes and the South Atlantic Ocean wave climate.pdf"/>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdf.sciencedirectassets.com/271817/1-s2.0-S0079661121X00079/1-s2.0-S0079661121001452/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQC6aUSG1DSjA6%2FXCVXBhb04VfLfZOM9J7MHMK82OUJwWgIhAIGmrQJcRoJv1xbYU2KeSzEaM5XcuGIP9HE%2B3K5r6pi5KrsFCNP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgxRIgXLZfRDkxtfJ4UqjwVpn0KfuJ6xdFYpWToeDUY66mpXh0fIRI%2BpOX59qkdOHMzehUk1nevfcmUG59kTGDO4Ng0rru8VzVipGW88K9bQTUkV%2BYgGt03iaOtKY6LZThy6L%2BrZ6RvKFqwP6lI12kYp3wfeLDMKns%2F%2FNpV3KsWobYEHzdO%2FAwJsDnSyYDQqqS5ozn844g3TyN%2FN9kY1i5L0Vs%2BJRAYqyEYKBHIPEVBfBJYXSTjWL7rOixIt%2BsijXe30dHuqLp8u7JPeebvHw0jNKYP95rQw4eEA4Z5BaOlFVTVdFwPvTbsK1HJXYVNaWwPlPyibtfqGn1BwB%2FpnIaz09nMBGobTvLhHZRp8NmVq12dW698i4a%2Fl1cJj5WY%2B%2BeCyCMl71KklBzBTbodiQ7yMdx5gZ4SH2RPMyapoG4c2xEEyWaFueVEP04iyPHCULhEI52OfNSnmxR2CcCZuu0p4yEiXe%2BXMOTv8mTpMWxsXUCsVx8ftEKyjYO7jtwtVNkGGpTOxANl20WzViOH60WtYu6Egb0ip7HrEJAmFLIVgMYHWnIXFvLqx%2B6UI%2Fb0pW1S6H0EdHr9UNYvNlEKbRwnWbwQ1pAHGvskLQ%2FtqONMfw9Rh6XPQRDQxpXPxT%2FIDijvWIwCbFVM1X9%2FAEK8q6WGyUmk1475A8%2F8s3ernG5XdV%2F5JzKAeSrczkx6uYNTs%2B%2F6sQ%2BO71d2wsxayjjbflwrVRQYoYKjGuXkL7cR9%2FAdpGPA1Xj3jcKTmdrG9x%2FWM4X0412N%2FJ%2BlFzw66PimeS2wdMriqY5vvuP6rQNsJbogy9N9hitmOx%2Fww36P35CwiDHQQmMsex2NI5DfFAbtig0tydUZSDE6bf7SHvLs%2BUY8STrTIu76MnBUuMBhEC2wwMIatlsUGOrAB73LSfuiwIlYszCFPjQda%2Bt%2BFVSWrcIzg7Pa247Sm6%2FxNsMcWr%2FdcaAU5xHT3SaC6dfDdWE0YzQ51G1wjaL%2BJeCruEAEE54Fw6Z5HCT3eu65r6BgHxwjyU5ZSviTVbpII4ShwoH%2FlrV9KGTbu6fX%2FeYuyFNnoOJW693I3M%2BTvmWOW0h61k6U58uVnWKA3zUfmYUKlGKHbha1y3vvQucDNJD%2FFRjO2uR2nxPxgG081GpA%3D&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20250820T100842Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAQ3PHCVTYWAP3NUOE%2F20250820%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=6055eb70b9c58d7e429ecae4bf0d66e50578fdb59fd89a2d8c05dd4a81ef2641&amp;hash=a8f0d58553b156fd65b74e6d986be6a66bcdc4d59ffed00833b6505954867b69&amp;host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&amp;pii=S0079661121001452&amp;tid=spdf-ac0c319b-af97-4017-95b0-a80accfbd996&amp;sid=b502dbed9ecca649b048d0165758cdb9f66cgxrqb&amp;type=client&amp;download=true&amp;tsoh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLmV6cHJveHkudWN0LmFjLnph&amp;rh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLmV6cHJveHkudWN0LmFjLnph&amp;ua=00025a57555e545557&amp;rr=97211747cae406d3&amp;cc=za</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-20 10:08:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_949">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/949/S0079661121001452.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0079661121001452</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-20 10:08:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.1399">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0899-8418,%201097-0088"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Singleton</foaf:surname>
+                        <foaf:givenName>A. T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reason</foaf:surname>
+                        <foaf:givenName>C. J. C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_953"/>
+        <dc:title>Variability in the characteristics of cut‐off low pressure systems over subtropical southern Africa</dc:title>
+        <dcterms:abstract>Abstract
+            Variability in the characteristics of cut‐off low pressure systems over subtropical southern Africa is examined for the 1973–2002 period. These characteristics include their seasonality, frequency, duration, location and size. It is found that on average 11 cut‐off lows occur over southern Africa south of 20°S per year and are most common in the March‐May season. Potential relationships between the number of cut‐off lows over southern Africa with the El Niño Southern Oscillation (ENSO), the Pacific South America pattern, the wave number 3 pattern and the semi‐annual oscillation (SAO) are discussed. La Niña years appear to be associated with above average annual frequencies of cut‐off lows but the reverse is generally not true for El Niño years. There was a shift in the preferred season for cut‐off lows from March–May to June–August in the 1980s, which coincided with a weakening of the SAO and a shift in zonal wave number 3. This period also showed a change in the preferred location of these systems from southwestern subtropical southern Africa to the northeast of the region. The results suggest that there may be a relationship between cut‐off lows over subtropical southern Africa, the wave number 3 pattern in the Southern Hemisphere and the SAO. Copyright © 2006 Royal Meteorological Society.</dcterms:abstract>
+        <dc:date>2007-03-15</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.1399</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-20 11:56:16</dcterms:dateSubmitted>
+        <bib:pages>295-310</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0899-8418,%201097-0088">
+        <prism:volume>27</prism:volume>
+        <dc:title>International Journal of Climatology</dc:title>
+        <dc:identifier>DOI 10.1002/joc.1399</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Intl Journal of Climatology</dcterms:alternative>
+        <dc:identifier>ISSN 0899-8418, 1097-0088</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_953">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/953/Singleton and Reason - 2007 - Variability in the characteristics of cut‐off low pressure systems over subtropical southern Africa.pdf"/>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Chris-Reason/publication/229586799_Variability_in_the_characteristics_of_cut-off_low_pressure_systems_over_subtropical_southern_Africa/links/610ab2e1169a1a0103ddaa3e/Variability-in-the-characteristics-of-cut-off-low-pressure-systems-over-subtropical-southern-Africa.pdf?__cf_chl_tk=j1il1yv2GUj16r4jPGppaNQhxFQYt9CklfjrL.kEmpI-1755690571-1.0.1.1-MwsQLwiSvN8LUVfuJTDWJS530wf408Mplfo4t2PAygo</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-20 11:56:13</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_955">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boyd</foaf:surname>
+                        <foaf:givenName>Alan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Theron</foaf:surname>
+                        <foaf:givenName>Andre</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rossouw</foaf:surname>
+                        <foaf:givenName>Marius</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rautenbach</foaf:surname>
+                        <foaf:givenName>Christo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saint</foaf:surname>
+                        <foaf:givenName>Ursula</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maherry</foaf:surname>
+                        <foaf:givenName>Ashton</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>August</foaf:surname>
+                        <foaf:givenName>Mario</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>⛔ No DOI found</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Determination of the Inshore wave climate along the South African coast - Phase 1 for Coastal Hazard and Vulnerability Assessment</dc:title>
+        <dcterms:abstract>As part of its strategic planning for integrated coastal management and the research 
+needs of the country, the Department of Environmental Affairs (DEA) through its Oceans and Coastal Branch (O&amp;C) intends to pursue a study of the aspects of coastal vulnerability on a national scale but also in order to provide decision support on a local scale. Both the DEA and the Council for Scientific and Industrial Research
+(CSIR) recognise the key importance of expanding the knowledge base of coastal
+hazards, the vulnerability that these create and the risks that require mitigation. In this context, a solicited proposal was prepared by the CSIR at the request of Dr Alan
+Boyd from the DEA (O&amp;C). The proposal was developed under the auspices of the
+Memorandum of Understanding (MoU) between the CSIR and the South African
+Government through the DEA that was signed by the Chief Executive Director of the CSIR, Dr Sibusiso Sibisi, and Ms Nosipho Ngcaba in her capacity as Director General of the DEA on the 21st of September 2012. The MoU established cooperation between the parties on matters of common interest, particularly with respect to national priorities, research and development, and capability development in the environmental sector. The particular proposal for Phase 1 of the study (which is the subject of this report) was in response to the areas of cooperating particularly dealing with a) adapting to and mitigating climate change and b) sustainable environmental management but not excluding c) ecosystems service delivery for a safe and secure South Africa (SA).</dcterms:abstract>
+        <dc:date>2014-06-09</dc:date>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:978-0-7981-0777-8">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cape Town, Pretoria</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Human &amp; Rousseau Publ</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Burman</foaf:surname>
+                        <foaf:givenName>Jose</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The false bay story</dc:title>
+        <dc:date>1977</dc:date>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-0-7981-0777-8</dc:identifier>
+        <z:numPages>181</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="https://www.jstor.org/stable/3887014?origin=crossref">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00381969"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goodwin</foaf:surname>
+                        <foaf:givenName>A. J. H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peers</foaf:surname>
+                        <foaf:givenName>B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Two Caves at Kalk Bay, Cape Peninsula</dc:title>
+        <dc:date>09/1953</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/3887014?origin=crossref</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-21 08:41:38</dcterms:dateSubmitted>
+        <bib:pages>59</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00381969">
+        <prism:volume>8</prism:volume>
+        <dc:title>The South African Archaeological Bulletin</dc:title>
+        <dc:identifier>DOI 10.2307/3887014</dc:identifier>
+        <prism:number>31</prism:number>
+        <dcterms:alternative>The South African Archaeological Bulletin</dcterms:alternative>
+        <dc:identifier>ISSN 00381969</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://link.springer.com/article/10.1007/s00367-021-00701-y">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1432-1157"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Wet</foaf:surname>
+                        <foaf:givenName>Willem Myburgh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Compton</foaf:surname>
+                        <foaf:givenName>John S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_961"/>
+        <dc:title>Bathymetry of the South African continental shelf</dc:title>
+        <dcterms:abstract>Detailed knowledge of shelf bathymetry is essential for understanding the long-term geological evolution of continental margins, the extent of the coastal plain as the shoreline moved in response to Pleistocene sea-level fluctuations, and for ecosystems management, resource exploration, and navigation. Although some areas have been mapped in detail, most South African shelf bathymetry is poorly resolved. This paper presents a bathymetric map of the South African continental shelf derived from digital single-beam echo-sounding data collected by the Department of Agriculture, Forestry and Fisheries (DAFF) that is at a significantly higher resolution than was previously available as presented by Dingle et al. (Annals of the South African Museum 98:1–27, 1987). The bathymetric dataset consists of approximately 7 million data sonar points collected by the Fisheries Division of DAFF over the last two decades, covering the entire South African continental shelf area of 541,000 km2 between the Orange River mouth on the West Coast and Kosi Bay on the East Coast. The new map not only resolves known shelf bathymetric features in greater detail but also reveals new features. The origin of some bathymetric features remains unknown, but many appear to relate to bedrock geology, sediment deposition (river drainage systems and ocean currents), and sea-level fluctuations.</dcterms:abstract>
+        <dc:date>2021/09/01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>link-springer-com.ezproxy.uct.ac.za</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/article/10.1007/s00367-021-00701-y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-21 09:28:42</dcterms:dateSubmitted>
+        <dc:rights>2021 The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature</dc:rights>
+        <dc:description>Company: Springer
+Distributor: Springer
+Institution: Springer
+Label: Springer
+Publisher: Springer Berlin Heidelberg</dc:description>
+        <bib:pages>1-19</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1432-1157">
+        <prism:volume>41</prism:volume>
+        <dc:title>Geo-Marine Letters</dc:title>
+        <dc:identifier>DOI 10.1007/s00367-021-00701-y</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Geo-Mar Lett</dcterms:alternative>
+        <dc:identifier>ISSN 1432-1157</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_961">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/961/de Wet and Compton - 2021 - Bathymetry of the South African continental shelf.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link-springer-com.ezproxy.uct.ac.za/content/pdf/10.1007/s00367-021-00701-y.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-21 09:28:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://elischolar.library.yale.edu/journal_of_marine_research/1299">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>32</prism:volume>
+                <dc:title>Journal of Marine Research</dc:title>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bang</foaf:surname>
+                        <foaf:givenName>N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Andrews</foaf:surname>
+                        <foaf:givenName>W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_963"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>⛔ No DOI found</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Direct current measurements of a shelf-edge frontal jet in the southern Benguela system</dc:title>
+        <dc:date>1974-01-01</dc:date>
+        <z:libraryCatalog>COinS</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://elischolar.library.yale.edu/journal_of_marine_research/1299</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_963">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/963/1299.html"/>
+        <dc:title>text/html Attachment</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://elischolar.library.yale.edu/journal_of_marine_research/1299</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-21 09:46:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="#item_964">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Stellenbosch, South Africa</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Council for Scientific and Industrial Research</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Taljaard</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>van Ballegooyen</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morant</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>False Bay Water Quality Review — Volume 2: Specialist Assessments and Inventories of Available Literature and Data</dc:title>
+        <dc:date>2000</dc:date>
+        <prism:number>ENV-S-C 2000-086/2</prism:number>
+        <z:type>CSIR Report</z:type>
+    </bib:Report>
 </rdf:RDF>
